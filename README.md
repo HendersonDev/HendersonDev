@@ -1,4 +1,4 @@
-## Olá eu sou o Henderson Andrade
+## Olá eu sou o Henderson Andrade 🧑🏻‍💻
 - 🌱 Estou aprendendo python e javascrispt
 
 <div align="center">
